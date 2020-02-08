@@ -1,0 +1,42 @@
+﻿  example7-grids-view-tilemap.cpp
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:  '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:         with
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:             T=float
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:         and
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:             T=unsigned int
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(91,36): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:  '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:         with
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:             T=float
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:         and
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:             T=unsigned int
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(95,36): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(171,41): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(171,41): warning C4244:         with
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(171,41): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(171,41): warning C4244:             T=float
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(171,41): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(172,40): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(172,40): warning C4244:         with
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(172,40): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(172,40): warning C4244:             T=float
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(172,40): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(173,42): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(173,42): warning C4244:         with
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(173,42): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(173,42): warning C4244:             T=float
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(173,42): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(174,40): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(174,40): warning C4244:         with
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(174,40): warning C4244:         [
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(174,40): warning C4244:             T=float
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(174,40): warning C4244:         ]
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(210,28): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\EGE\source\repos\sfmlLink\sfmlLink\example7-grids-view-tilemap.cpp(212,29): warning C4018:  '<': signed/unsigned mismatch
+  sfmlLink.vcxproj -> C:\Users\EGE\source\repos\sfmlLink\Debug\sfmlLink.exe
